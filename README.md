@@ -16,4 +16,4 @@ To start, you need to start the web server start_Web.bat, start the RMI register
 ![image](https://github.com/DarkCard1nal/JavaCPP_l7/assets/34416583/edfb7114-1e21-439b-ac79-50ec807b5f4d)
 
 
-	The corresponding client uses RMI services and the web server to pass the necessary classes to the server and performs calculations, after which the server returns the calculation results or an error.
+The corresponding client uses RMI services and the web server to pass the necessary classes to the server and performs calculations, after which the server returns the calculation results or an error.
